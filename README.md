@@ -1,1 +1,1 @@
-# Huma.github.io
+# huma.github.io
